@@ -18,4 +18,4 @@ This Python tool evaluates the strength of a password based on various criteria 
    ```bash
    git clone https://github.com/n1m1tham/PRODIGY_CS_03.git
    cd PRODIGY_CS_03
-   python3 password_checker.py
+   python3 password_strength_checker.py
